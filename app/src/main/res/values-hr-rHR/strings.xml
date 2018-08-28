@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BelaZbrajalo</string>
+    <string name="navigation_drawer_open">Otvori navigaciju</string>
+    <string name="navigation_drawer_close">Zatvori navigaciju</string>
+    <string name="nav_header_title0">Bela bez papira</string>
+    <string name="nav_header_desc">Zaglavlje navigacije</string>
+    <string name="action_settings">Postavke</string>
+    <string name="nav_players">Igrači</string>
+    <string name="nav_matches">Partije</string>
+    <string name="nav_statistics">Statistika</string>
+    <string name="nav_settings">Postavke</string>
+</resources>

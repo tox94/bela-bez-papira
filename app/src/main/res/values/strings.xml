@@ -2,8 +2,12 @@
     <string name="app_name">BelaCounter</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title0">Bela without paper</string>
+    <string name="nav_header_subtitle" translatable="false">toxinator</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="nav_players">Players</string>
+    <string name="nav_matches">Matches</string>
+    <string name="nav_statistics">Statistics</string>
+    <string name="nav_settings">Settings</string>
 </resources>
